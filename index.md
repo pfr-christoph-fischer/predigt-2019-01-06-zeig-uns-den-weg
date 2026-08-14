@@ -10,7 +10,7 @@ summary: "Mit Jesus ist das wahre Licht Gottes in die Welt gekommen. Viele haben
 source: pfarrplaner
 source_id: "128@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Zeig uns den Weg\"."
-audio: audio.mp3
+audio: zeig-uns-den-weg.mp3
 audio_duration: "20:35"
 legacy_id: 128
 events:
